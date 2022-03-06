@@ -1,13 +1,9 @@
+Types of Version Control System
+Basically, we have two different Version Control Systems. (Most Using
+1.Centralized Version Control System
+2.Distributed Version Control System
 
-remote project 
-remote controller
-cd
-puli project and not understading
-ytytyty
-mfenkfnksfsefowk
-remote project 
-remote controller
-cd
-puli project and not understading
-ytytyty
-mfenkfnksfsefowk
+1.Centralized Version Control System
+The centralized Version Control System will have the master copy of the Codebase the Server Repository. And, The developers can get the clone copy of the repository. Developers will change the code and directly they will commit into the Server Repository
+2.Distributed Version Control System
+The Distributed Version Control System will have the master copy of the Code Base in Server Repository and Developer can get a copy of the repository to maintain in his PC or the workstation. For every small change, Developer can commit the code to the local repository and once the job is done, Developer can push the code to Server Repository.
