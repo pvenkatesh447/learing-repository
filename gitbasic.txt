@@ -1,0 +1,2 @@
+ git basic and noramal practice Git Basic
+GIT is the most widely used open-source VCS (version control system) that allows you to track changes made to files. Companies and programmers usually use GIT to collaborate on developing software and applications. AGIT project consists of three major sections: the working directory, the staging area, and the git directory
