@@ -1,3 +1,5 @@
-remote project
+remote project 
 remote controller
-cd ;
+cd
+puli project and not understading
+
