@@ -1,0 +1,16 @@
+cd c:
+mkdir cdrive
+cd cdrive
+cd cdrive/
+git clone "url copy"
+git remote 
+ls
+visibule list
+learing-repository
+cd learing-repository
+ls
+vi-new document    enter
+git status
+git add document namee
+git commint -m "data changes"
+
