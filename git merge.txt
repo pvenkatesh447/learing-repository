@@ -1,0 +1,11 @@
+Diff tool Config --------------------
+1.git config --global diff.tool p4 merge
+2.git config --global difftool.p4merge.path "rpath to p4merge"
+3.git config --global difftool.prompt false
+
+
+
+Merge tool config
+1.git config --global merge.tool p4merge
+2.git config --global mergetool.path "path to p4merge"
+3.git config --global mergetool.promot false 
