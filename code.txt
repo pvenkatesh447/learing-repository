@@ -1,4 +1,14 @@
-edit not workingccc
+remote to working directory
+
+git fetch origin
+ls
+git push origin master
+ls
+some file edit and modified data
+vi code.tex
+git add .
+git commit -m "remote to working directory'
+
 c
 c
 c
